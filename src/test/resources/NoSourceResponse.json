@@ -1,0 +1,12 @@
+{
+  "result": [
+    {
+      "source": "source1",
+      "isValid": true
+    },
+    {
+      "source": "source2",
+      "isValid": true
+    }
+  ]
+}
